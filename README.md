@@ -18,3 +18,5 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf)
+
+* [Parsing: a timeline](https://jeffreykegler.github.io/personal/timeline_v3)
