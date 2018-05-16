@@ -24,3 +24,5 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 * [Existential quantifiers in abstract data types](https://link.springer.com/chapter/10.1007/3-540-09510-1_7)
 
 * [1ML — core and modules united](https://people.mpi-sws.org/~rossberg/1ml/)
+
+* [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
