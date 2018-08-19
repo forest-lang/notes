@@ -26,3 +26,7 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 * [1ML — core and modules united](https://people.mpi-sws.org/~rossberg/1ml/)
 
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+
+* [An algorithm for optimal lambda calculus reduction](https://dl.acm.org/citation.cfm?id=96711)
+
+* [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
