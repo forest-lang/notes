@@ -31,4 +31,4 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 
-* [](https://arxiv.org/pdf/1802.03292.pdf)
+* [Mathematical Logic in Computer Science](https://arxiv.org/pdf/1802.03292.pdf)
