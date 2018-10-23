@@ -30,3 +30,5 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 * [An algorithm for optimal lambda calculus reduction](https://dl.acm.org/citation.cfm?id=96711)
 
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
+
+* [](https://arxiv.org/pdf/1802.03292.pdf)
