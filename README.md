@@ -32,3 +32,5 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 
 * [Mathematical Logic in Computer Science](https://arxiv.org/pdf/1802.03292.pdf)
+
+* [Fused effect systems in Haskell](https://github.com/robrix/fused-effects)
