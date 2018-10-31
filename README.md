@@ -31,6 +31,12 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 
+## Package Manager research
+
+* [A Peer-to-Peer Distribution System for
+Software Package Releases and Updates](http://www.cs.sfu.ca/~jcliu/Papers/apt-p2p.pdf)
+* [Secure ledgers don't require proof-of-work](https://pfrazee.github.io/blog/secure-ledgers-dont-require-proof-of-work)
+
 * [Mathematical Logic in Computer Science](https://arxiv.org/pdf/1802.03292.pdf)
 
 * [Fused effect systems in Haskell](https://github.com/robrix/fused-effects)
