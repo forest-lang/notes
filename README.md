@@ -31,6 +31,8 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 
+* [Implementing strings](http://beza1e1.tuxen.de/strings.html)
+
 ## Package Manager research
 
 * [A Peer-to-Peer Distribution System for
