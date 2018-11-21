@@ -33,6 +33,10 @@ Might be interesting for DOM implementation, found from https://github.com/paf31
 
 * [Implementing strings](http://beza1e1.tuxen.de/strings.html)
 
+* [Simple explanation of Hindley Milner](https://eli.thegreenplace.net/2018/type-inference/)
+
+* [Simple explanation of type unification](https://eli.thegreenplace.net/2018/unification/)
+
 ## Package Manager research
 
 * [A Peer-to-Peer Distribution System for
