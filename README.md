@@ -29,6 +29,7 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 * [Simple explanation of Hindley Milner](https://eli.thegreenplace.net/2018/type-inference/)
 * [Simple explanation of type unification](https://eli.thegreenplace.net/2018/unification/)
 * [Jan's proposal to add Row Types to GHC](https://github.com/ghc-proposals/ghc-proposals/pull/180)
+* [Type driven development in Idris](https://www.youtube.com/watch?v=mOtKD7ml0NU&feature=youtu.be)
 
 
 ### DOM
