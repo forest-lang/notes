@@ -9,6 +9,10 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 
 * [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 
+### Lambda Calculus
+* [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
+* [An algorithm for optimal lambda calculus reduction](https://dl.acm.org/citation.cfm?id=96711)
+
 ### Data structures
 
 * [Implementing strings](http://beza1e1.tuxen.de/strings.html)
@@ -23,7 +27,6 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 * [Programming with Abstract Data Types by Liskov & Zilles](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.3043&rep=rep1&type=pdf)
 * [Existential quantifiers in abstract data types](https://link.springer.com/chapter/10.1007/3-540-09510-1_7)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf)
-* [An algorithm for optimal lambda calculus reduction](https://dl.acm.org/citation.cfm?id=96711)
 * [Mathematical Logic in Computer Science](https://arxiv.org/pdf/1802.03292.pdf)
 * [Fused effect systems in Haskell](https://github.com/robrix/fused-effects)
 * [Simple explanation of Hindley Milner](https://eli.thegreenplace.net/2018/type-inference/)
