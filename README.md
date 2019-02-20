@@ -34,6 +34,9 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 * [Jan's proposal to add Row Types to GHC](https://github.com/ghc-proposals/ghc-proposals/pull/180)
 * [Type driven development in Idris](https://www.youtube.com/watch?v=mOtKD7ml0NU&feature=youtu.be)
 
+### Proofs
+
+ * [Fiat: Deductive Synthesis of AbstractData Types in a Proof Assistant](http://plv.csail.mit.edu/fiat/papers/fiat-popl2015.pdf)
 
 ### DOM
 
