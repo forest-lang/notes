@@ -51,3 +51,7 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 * [A Peer-to-Peer Distribution System for
 Software Package Releases and Updates](http://www.cs.sfu.ca/~jcliu/Papers/apt-p2p.pdf)
 * [Secure ledgers don't require proof-of-work](https://pfrazee.github.io/blog/secure-ledgers-dont-require-proof-of-work)
+
+### Tests
+
+* [Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing](https://matela.com.br/paper/rudy-phd-thesis-2017.pdf)
