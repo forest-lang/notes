@@ -56,3 +56,7 @@ Software Package Releases and Updates](http://www.cs.sfu.ca/~jcliu/Papers/apt-p2
 ### Tests
 
 * [Tools for Discovery, Refinement and Generalization of Functional Properties by Enumerative Testing](https://matela.com.br/paper/rudy-phd-thesis-2017.pdf)
+
+### Memory management
+
+* [Floorplan: Spatial Layout in Memory Management Systems](https://conf.researchr.org/details/gpce-2019/gpce-2019-papers/6/Floorplan-Spatial-Layout-in-Memory-Management-Systems)
