@@ -38,6 +38,7 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 ### Proofs
 
  * [Fiat: Deductive Synthesis of AbstractData Types in a Proof Assistant](http://plv.csail.mit.edu/fiat/papers/fiat-popl2015.pdf)
+ * [Vellvm: Verified LLVM](https://www.cis.upenn.edu/~stevez/vellvm/)
 
 ### DOM
 
