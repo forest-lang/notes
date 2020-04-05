@@ -21,6 +21,7 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 
 * [Parsing: a timeline](https://jeffreykegler.github.io/personal/timeline_v3)
 * [A typed, algebraic approach to parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
+* https://github.com/bellissimogiorno/nominal
 
 ### Types
 
