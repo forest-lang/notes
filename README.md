@@ -36,6 +36,7 @@ Notes from my research for forest-lang, mostly in the form of links to reference
 * [Type driven development in Idris](https://www.youtube.com/watch?v=mOtKD7ml0NU&feature=youtu.be)
 * [A reckless introduction to Hindley-Milner type inference](http://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [The Hindley-Milner Type Inference Algorithm](http://steshaw.org/hm/hindley-milner.pdf)
+* [Practical type inference for arbitrary-rank types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 
 ### Proofs
 
